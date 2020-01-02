@@ -35,8 +35,11 @@ to the new enrollment forms and thus save you time to enjoy your life.
     ![Enrollment page](/images/guide/enrollment_page.png)
 2. Once you are on the page showing your last enrollment, click the extension icon
     on the Chrome toolbar to open the popup menu and then click "Import data" button.
+
     ![import button](/images/guide/import_button.png)
+
     The imported enrollment will show up in the popup menu.
+
     ![import success](/images/guide/import_success.png)
 
 ### Autofill new enrollment forms
@@ -45,7 +48,7 @@ to the new enrollment forms and thus save you time to enjoy your life.
 3. Click the green button to autofill the forms.
     ![autofill](/images/guide/autofill.png)
 4. Click "NEXT" on the page. An error prompt might pop up. Just ignore it
-    and click "NEXT" again.
+    and click "NEXT" again. It will go through the second time.
     ![error](/images/guide/error.png)
 5. Repeat 2-4 till all the forms have been filled out.
 
