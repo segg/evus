@@ -7,7 +7,11 @@ Perhaps for yourself, your parents, friends, or clients.
 
 There is absolutely no fun typing the answers for the numerous questions.
 Even if you had a previous enrollment at hand, it is still tedious labor
-work copy-pasting over all the information. 
+work copy-pasting over all the information.
+
+Though working on this extension cost more time than filling out the
+enrollment applications 100 times it was fun and hopefully it would save
+many others' time.
 
 EVUS AUTOFILL will not help you if it is your first time doing an enrollment.
 However,
@@ -27,22 +31,22 @@ to the new enrollment forms and thus save you time to enjoy your life.
     submitted for your last enrollment.
     The enrollment number or group id might be found in your email used for your
     last enrollment. Try searching "evus" in your email box.
-    ![CHECK EXISTING ENROLLMENT](check_existing_enrollment.png)
-    ![Enrollment page](enrollment_page.png)
-1. Once you are on the page showing your last enrollment, click the extension icon
+    ![CHECK EXISTING ENROLLMENT](/images/guide/check_existing_enrollment.png)
+    ![Enrollment page](/images/guide/enrollment_page.png)
+2. Once you are on the page showing your last enrollment, click the extension icon
     on the Chrome toolbar to open the popup menu and then click "Import data" button.
-    ![import button](import_button.png)
+    ![import button](/images/guide/import_button.png)
     The imported enrollment will show up in the popup menu.
-    ![import success](import_success.png)
+    ![import success](/images/guide/import_success.png)
 
 ### Autofill new enrollment forms
 1. Following "NEW ENROLLMENT" to start a new enrollment.
 2. Once on the forms click the extension icon to open the popup menu.
 3. Click the green button to autofill the forms.
-    ![autofill](autofill.png)
+    ![autofill](/images/guide/autofill.png)
 4. Click "NEXT" on the page. An error prompt might pop up. Just ignore it
     and click "NEXT" again.
-    ![error](error.png)
+    ![error](/images/guide/error.png)
 5. Repeat 2-4 till all the forms have been filled out.
 
 Feel free to make changes to the data fields if needed.
