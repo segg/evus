@@ -15,6 +15,11 @@ $("#clear").click(function () {
     });
 });
 
+$("#help").click(function () {
+    chrome.tabs.create({url: "https://github.com/segg/evus/blob/master/README.md"});
+});
+
+
 function refresh() {
     chrome.storage.sync.get(null, function (data) {
         $("#candidates").html("");
