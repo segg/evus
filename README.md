@@ -1,6 +1,8 @@
-# EVUS AUTOFILL
+# EVUS AUTOFILL    ![ev](icon/ev32.png)
+
 A Chrome extension to autofill [EVUS](www.evus.gov) (evus.gov) forms using previous enrollments.
 
+## Why?
 Once in a while you have to do a new enrollment on www.evus.gov for people
 visiting US from China.
 Perhaps for yourself, your parents, friends, or clients.
