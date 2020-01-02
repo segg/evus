@@ -1,4 +1,4 @@
-# EVUS AUTOFILL    ![ev](icon/ev32.png)
+# EVUS AUTOFILL    [![ev](icon/ev32.png)](https://chrome.google.com/webstore/detail/evus-autofill/glnjgelddfieimfnafdlplhoimldmfkl)
 
 A Chrome extension to autofill [EVUS](www.evus.gov) (evus.gov) forms using previous enrollments.
 
@@ -23,10 +23,7 @@ to the new enrollment forms and thus save you time to enjoy your life.
 ## How to use?
 
 ### Install this Chrome extension
-(Until this is published to the Chrome web store)
-1. Clone this repo
-1. Install the unpacked extension in Chrome
-    ([detailed steps](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/))
+Available on [Chrome web store](https://chrome.google.com/webstore/detail/evus-autofill/glnjgelddfieimfnafdlplhoimldmfkl).
 
 ### Import from previous enrollments
 1. Following "CHECK EXISTING ENROLLMENT" to the page showing all the information
